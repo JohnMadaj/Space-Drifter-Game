@@ -1,5 +1,6 @@
 Space Drifter
 by John Madaj
+(currently only works on Linux, sorry. Video below for demo).
 
 Computer Engineering '23 at Christopher Newport University
 GitHub: https://github.com/JohnMadaj
