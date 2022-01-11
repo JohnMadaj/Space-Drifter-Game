@@ -15,5 +15,5 @@ This is a minimal, sample C++ exercise using the Simple DirectMedia Layer librar
 I may add to this project periodically to experiment with new design ideas, all for educational purposes.
 All code and assets in this repository are made by me, no royalties etc etc.
 
-file:///home/jackmadaj/Pictures/demo/Screenshot%20from%202022-01-11%2016-55-41.png![image](https://user-images.githubusercontent.com/83408469/149032338-9e229a9b-8c27-4cdb-8cf2-d40f23363d33.png)
+<img src="https://user-images.githubusercontent.com/83408469/149032887-2e71a627-93d9-49df-8047-8331fa74f862.png" alt="PCSE" width="300"/>
 
